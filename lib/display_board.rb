@@ -14,10 +14,10 @@ end
 
 
 puts "Turn 1 Where Would You Like to Go?"
-  board =[" "," "," "," "," "," "," "," "," "]
+  board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
 
 my_variable= "X#{[0]}"
-your_variable= "#{[0]}"
+your_variable= "Y#{[0]}"
 
-board = my_variable
+
