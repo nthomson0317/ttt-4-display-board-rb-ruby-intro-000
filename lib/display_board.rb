@@ -8,11 +8,16 @@ def display_board(board)
   puts " board#{[6]}" | "board#{[7]}" | "board#{[8]}"
 
 end
-puts "Turn 1 Where Would You Like to Go?"
 
 board =[" "," "," "," "," "," "," "," "," "]
-board[board] = my_variable
 display_board(board)
+
+puts "Turn 1 Where Would You Like to Go?"
+
+
+board = my_variable
 
 my_variable= "X#{[0]}"
 your_variable= "#{[0]}"
+
+
