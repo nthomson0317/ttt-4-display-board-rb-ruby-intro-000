@@ -8,6 +8,8 @@ def display_board(board)
   puts " board#{[6]}" | "board#{[7]}" | "board#{[8]}"
 
 end
+puts "Turn 1 Where Would You Like to Go?"
+
 board =[" "," "," "," "," "," "," "," "," "]
 board[position] = my_variable
 display_board(board)
