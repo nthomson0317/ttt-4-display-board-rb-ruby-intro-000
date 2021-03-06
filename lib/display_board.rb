@@ -16,10 +16,4 @@ end
 board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
 
-puts "Turn 1 Where Would You Like to Go? 0-8"
-board = [" "," "," "," "," "," "," "," "," "]
 
-
-
-  my_variable = "x"
-  your_variable = "y"
