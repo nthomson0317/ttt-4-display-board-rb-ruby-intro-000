@@ -13,4 +13,4 @@ board[position] = my_variable
 display_board(board)
 
 my_variable= "X"
-your_variable="Y"
+your_variable="O"
