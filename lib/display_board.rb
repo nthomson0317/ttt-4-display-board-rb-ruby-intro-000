@@ -9,14 +9,8 @@ def display_board(board)
   puts "-----------"
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 
-  puts "X#{[0]}"
-  puts "O#{[0]}"
-
-
 end
 
-
-puts "Turn 1 Where Would You Like to Go?"
 
 
   board = [" "," "," "," "," "," "," "," "," "]
