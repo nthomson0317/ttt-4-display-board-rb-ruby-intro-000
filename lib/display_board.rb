@@ -19,5 +19,3 @@ board = my_variable
 
 my_variable= "X#{[0]}"
 your_variable= "#{[0]}"
-
-
