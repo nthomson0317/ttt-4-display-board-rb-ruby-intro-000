@@ -11,7 +11,7 @@ end
 puts "Turn 1 Where Would You Like to Go?"
 
 board =[" "," "," "," "," "," "," "," "," "]
-board[position] = my_variable
+board[board] = my_variable
 display_board(board)
 
 my_variable= "X"
