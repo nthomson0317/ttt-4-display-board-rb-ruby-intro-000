@@ -9,15 +9,17 @@ def display_board(the_board)
   puts"  #{the_board[6]}  | #{the_board[7]}  | #{the_board[8]}"
 
 
-board = [" "," "," "," "," "," "," "," "," "]
 
-  puts "X #"
-  puts "O #{board[0]}"
-
-  my_variable = "x"
-  your_variable = "y"
 
 end
 
-board= [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
+
+puts "Turn 1 Where Would You Like to Go? 0-8"
+board = [" "," "," "," "," "," "," "," "," "]
+
+  
+
+  my_variable = "x"
+  your_variable = "y"
