@@ -14,8 +14,11 @@ end
 
 
 puts "Turn 1 Where Would You Like to Go?"
+
   board = [" "," "," "," "," "," "," "," "," "]
+  
 display_board(board)
 
-my_variable= "X#{[0]}"
-your_variable= "Y#{[0]}"
+puts "X#{[0]}"
+puts "O#{[0]}"
+
