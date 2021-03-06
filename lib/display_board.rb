@@ -14,5 +14,5 @@ board =[" "," "," "," "," "," "," "," "," "]
 board[board] = my_variable
 display_board(board)
 
-my_variable= "X"
-your_variable="O"
+my_variable= "X#{[0]}"
+your_variable= "#{[0]}"
