@@ -23,5 +23,3 @@ puts "Turn 1 Where Would You Like to Go?"
   board = [" "," "," "," "," "," "," "," "," "]
 
 display_board(board)
-
-
