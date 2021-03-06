@@ -11,3 +11,6 @@ end
 board= [" "," "," "," "," "," "," "," "," "]
 
 display_board(board[0])
+
+my_variable="X"
+your_variable="Y"
