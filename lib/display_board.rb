@@ -19,5 +19,3 @@ display_board(board)
 
 my_variable= "X#{[0]}"
 your_variable= "Y#{[0]}"
-
-
