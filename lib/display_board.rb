@@ -16,9 +16,8 @@ end
 puts "Turn 1 Where Would You Like to Go?"
 
   board = [" "," "," "," "," "," "," "," "," "]
-  
+
 display_board(board)
 
 puts "X#{[0]}"
 puts "O#{[0]}"
-
