@@ -9,8 +9,9 @@ def display_board(board)
 
 end
 board= [" "," "," "," "," "," "," "," "," "]
+puts board[0]
 
-display_board(board[0])
+display_board(board)
 
 my_variable="X"
 your_variable="Y"
